@@ -39,7 +39,7 @@ Chris Turton
 
 
 # Test
-![](\Develop\public\workout-tracker.gif)
+![](./public/workout-tracker.gif)
 By recording various workouts throughout the weekday/weekend.
 
 
